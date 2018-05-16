@@ -2,7 +2,7 @@
 My favorites song chords for guitar
 
 - [Cuộc đời là những bước chân](#cuộc-đời-là-những-bước-chân)
-- [Đừng quên nhau](#đừng-quên-nhau)
+- [Đừng quên nhau](#Đừng-quên-nhau)
 - [Vội vàng](#vội-vàng)
 
 ## Cuộc đời là những bước chân
