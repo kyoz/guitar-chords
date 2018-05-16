@@ -5,7 +5,7 @@ My favorites song chords for guitar
 - [Đừng quên nhau](#Đừng-quên-nhau)
 - [Vội vàng](#Vội-vàng)
 
-## Cuộc đời là những bước chân 
+## Cuộc đời là những bước chân
 
 Capo: 4
 
