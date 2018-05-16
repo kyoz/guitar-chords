@@ -1,9 +1,9 @@
 # :guitar: Guitar Chords 
 My favorites song chords for guitar
 
-- [Cuộc đời là những bước chân](#Cuộc-đời-là-những-bước-chân)
-- [Đừng quên nhau](#Đừng-quên-nhau)
-- [Vội vàng](#Vội-vàng)
+- [Cuộc đời là những bước chân](#cuộc-đời-là-những-bước-chân)
+- [Đừng quên nhau](#đừng-quên-nhau)
+- [Vội vàng](#vội-vàng)
 
 ## Cuộc đời là những bước chân
 
@@ -69,7 +69,6 @@ Dù cho mưa nắng đã cách xa. [F G]()<br>
 Anh sẽ đợi em về, anh sẽ chờ mỗi em [Am F Am F]()<br>
 Hãy vững lối em chọn để khi ta gặp lại [Am F Am F]()<br>
 Mình không nuối tiếc thời gian xa cách nhau. [G C]()<br>
-
 
 ## Vội vàng
 
