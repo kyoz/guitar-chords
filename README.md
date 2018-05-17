@@ -4,6 +4,7 @@ My favorites song chords for guitar
 - [Cuộc đời là những bước chân](#cuộc-đời-là-những-bước-chân)
 - [Dấu phố em qua](#dấu-phố-em-qua)
 - [Đừng quên nhau](#Đừng-quên-nhau)
+- [Người con gái ta thương](#người-con-gái-ta-thương)
 - [Vội vàng](#vội-vàng)
 
 ## Cuộc đời là những bước chân
@@ -92,6 +93,29 @@ Dù cho mưa nắng đã cách xa. [F G]()<br>
 Anh sẽ đợi em về, anh sẽ chờ mỗi em [Am F Am F]()<br>
 Hãy vững lối em chọn để khi ta gặp lại [Am F Am F]()<br>
 Mình không nuối tiếc thời gian xa cách nhau. [G C]()<br>
+
+## Người con gái ta thương
+
+Người con gái ta thương [G C]()<br>
+Gục khóc trên vai ta [G C]()<br>
+Giọt nước mắt em rơi [G C]()<br>
+Bống xát con tim ta  [G C]()<br>
+...Ta thương em nhiều...hơn chính bản thân [Em D]()<br>
+...Giả vờ cứng nhắc...buông lời trách móc [C D]()<br>
+...Đôi vai thinh lặng...nghe tiếng thở than [Em D]()<br>
+...Ta sợ mình cũng làm ướt lưng em...[C D7]()<br>
+ 
+...Ta đâu dám nhìn thẳng...vào đôi mắt em [G D]()<br>
+...Đôi mắt sau lưng người...cũng nhòe đi...vì gió [Em C G]()<br>
+...Em hãy cứ khóc hết...những điều dở dang [D]()<br>
+...Mạnh mẽ lên nào, mạnh mẽ lên nào, mạnh mẽ lên nào. [Em C G]()<br>
+<br>
+...Ta chỉ muốn bước đến...siết thật chặt em [D]()<br>
+...Em có nghe trái tim...này như...nghẹt thở [Em C G]()<br>
+...Nếu muốn khóc cứ đến...bên ta những lúc yếu...lòng [D Em]()<br>
+Ta thương em...thương em thương em...nhiều [C D]()<br>
+Và ta xót cho ta [G]()<br>
+
 
 ## Vội vàng
 
