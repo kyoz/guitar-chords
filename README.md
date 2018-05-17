@@ -3,7 +3,7 @@ My favorites song chords for guitar
 
 - [Cuộc đời là những bước chân](#cuộc-đời-là-những-bước-chân)
 - [Dấu phố em qua](#dấu-phố-em-qua)
-- [Đừng quên nhau](#đừng-quên-nhau)
+- [Đừng quên nhau](#Đừng-quên-nhau)
 - [Giấc mơ chỉ là giấc mơ](#giấc-mơ-chỉ-là-giấc-mơ)
 - [Người con gái ta thương](#người-con-gái-ta-thương)
 - [Vội vàng](#vội-vàng)
@@ -121,7 +121,7 @@ Ta thương em...thương em thương em...nhiều [C D]()<br>
 Và ta xót cho ta [G]()<br>
 
 
-## Giấc mơ chi là giấc mơ
+## Giấc mơ chỉ là giấc mơ
 
 Ðêm nay lại một đêm nữa [Em G]()<br>
 Em nhớ mong anh đến từng phút giây trôi qua vô tình [D Am B]()<br>
