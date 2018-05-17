@@ -3,9 +3,11 @@ My favorites song chords for guitar
 
 - [Cuộc đời là những bước chân](#cuộc-đời-là-những-bước-chân)
 - [Dấu phố em qua](#dấu-phố-em-qua)
-- [Đừng quên nhau](#Đừng-quên-nhau)
+- [Đừng quên nhau](#đừng-quên-nhau)
+- [Giấc mơ chỉ là giấc mơ](#giấc-mơ-chỉ-là-giấc-mơ)
 - [Người con gái ta thương](#người-con-gái-ta-thương)
 - [Vội vàng](#vội-vàng)
+
 
 ## Cuộc đời là những bước chân
 
@@ -43,6 +45,7 @@ Em bước theo dòng đời [Bm G]()<br>
 Đk:<br> 
 Bước chân này em giữ muôn đời [D]()<br>
 Mai này mang theo khắp nơi … [G]()<br>
+
 
 ## Dấu phố em qua
 
@@ -94,12 +97,13 @@ Anh sẽ đợi em về, anh sẽ chờ mỗi em [Am F Am F]()<br>
 Hãy vững lối em chọn để khi ta gặp lại [Am F Am F]()<br>
 Mình không nuối tiếc thời gian xa cách nhau. [G C]()<br>
 
+
 ## Người con gái ta thương
 
 Người con gái ta thương [G C]()<br>
 Gục khóc trên vai ta [G C]()<br>
 Giọt nước mắt em rơi [G C]()<br>
-Bống xát con tim ta  [G C]()<br>
+Bỏng rát con tim ta  [G C]()<br>
 ...Ta thương em nhiều...hơn chính bản thân [Em D]()<br>
 ...Giả vờ cứng nhắc...buông lời trách móc [C D]()<br>
 ...Đôi vai thinh lặng...nghe tiếng thở than [Em D]()<br>
@@ -116,6 +120,26 @@ Bống xát con tim ta  [G C]()<br>
 Ta thương em...thương em thương em...nhiều [C D]()<br>
 Và ta xót cho ta [G]()<br>
 
+
+## Giấc mơ chi là giấc mơ
+
+Ðêm nay lại một đêm nữa [Em G]()<br>
+Em nhớ mong anh đến từng phút giây trôi qua vô tình [D Am B]()<br>
+Anh đang ở một nơi xa em nhớ mong anh vô cùng. [Em G D]()<br>
+Uớc sao mình được bên nhau đêm nay [Am C]()<br>
+Giấc mơ chỉ là giấc mơ ! [D Em]()<br>
+Em mơ về ngày xa xăm ta sống bên nhau [Em G D]()<br>
+Không còn cách xa không còn mong chờ. [Am B]()<br>
+Em mơ đuợc ngồi bên anh ta nói với nhau bao điều. [Em G D]()<br>
+Những vui buồn ta cùng trong tay nhau [Am C]()<br>
+Giấc mơ chỉ là giấc mơ ! [D Em]()<br>
+<br>
+Rồi anh cứ đi, để rồi đây em vẫn mong chờ [G D Em Bm]()<br>
+Vẫn thầm mong anh yêu nơi xa sống vui bình yên [C Am D]()<br>
+Ngày trôi mãi xa sao tình yêu vẫn cứ ở lại [G D Em Bm]()<br>
+Tháng năm dài tình em héo khô [C D]()<br>
+Theo bóng ai kia hững hờ. [Em]()<br>
+
 
 ## Vội vàng
 
