@@ -6,6 +6,7 @@ My favorites song chords for guitar
 - [Đừng quên nhau](#Đừng-quên-nhau)
 - [Giấc mơ chỉ là giấc mơ](#giấc-mơ-chỉ-là-giấc-mơ)
 - [Người con gái ta thương](#người-con-gái-ta-thương)
+- [Tái bút anh yêu em](#tái-bút-anh-yêu-em)
 - [Vội vàng](#vội-vàng)
 
 
@@ -140,6 +141,27 @@ Ngày trôi mãi xa sao tình yêu vẫn cứ ở lại [G D Em Bm]()<br>
 Tháng năm dài tình em héo khô [C D]()<br>
 Theo bóng ai kia hững hờ. [Em]()<br>
 
+
+## Tái bút anh yêu em
+
+Vòng: [Em C G D]() (C: 32xxxx)
+
+Chạm tay với thiên đường [Em C]()<br>
+Anh đã sai giữa những phút yêu thương [G D]()<br>
+Từng hơi thở tan nhanh <br>
+Môi anh run rẩy nồng nàng lần cuối <br>
+
+Không còn ai cạnh bên và ôm chặt em những lúc em đang yếu mềm <br>
+Bàn tay ngỡ muôn đời sửi ấm sao chẳng còn đan <br>
+Anh vẫn ở đây dõi theo đời em dù môi chẳng thể cất lời <br>
+Xin em hãy giữ vững lòng để sống cho trọn kiếp này <br>
+ 
+ĐK: <br>
+Hãy ngừng khóc đi em anh không thể lau nước mắt <br>
+Vội vàng đến ôm em nhưng tay anh không thể chạm <br>
+Mượn làn gió bên em để thay lời anh muốn nói <br>
+Em hãy hạnh và sống thật tốt thay anh <br>
+Vì anh yêu em <br>
 
 ## Vội vàng
 
