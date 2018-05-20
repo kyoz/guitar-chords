@@ -6,6 +6,7 @@ My favorites song chords for guitar
 - [Đừng quên nhau](#Đừng-quên-nhau)
 - [Giấc mơ chỉ là giấc mơ](#giấc-mơ-chỉ-là-giấc-mơ)
 - [Người con gái ta thương](#người-con-gái-ta-thương)
+- [Người ta nói](#người-ta-nói)
 - [Tái bút anh yêu em](#tái-bút-anh-yêu-em)
 - [Tháng tư là lời nói dối của em](#tháng-tư-là-lời-nói-dối-của-em)
 - [Vội vàng](#vội-vàng)
@@ -143,6 +144,29 @@ Tháng năm dài tình em héo khô [C D]()<br>
 Theo bóng ai kia hững hờ. [Em]()<br>
 
 
+## Người ta nói
+
+Capo: 1
+
+Có một người vẫn yêu một người [Cmaj7 Bm7]()<br>
+Vẫn đợi chờ dẫu cho người ấy không về... [Am7 D7 G D]()<br>
+Tháng ngày buồn ấp ôm kỷ niệm [Cmaj7 Bm7]()<br>
+Hát một mình, hát cho nỗi nhớ đong đầy... [Am7 D7 G D]()<br>
+ 
+Người ta cứ nói đừng quá yêu [Cmaj7 D7]()<br>
+Người ta cứ nói đừng quá tin [Bm7 Em7]()<br>
+Tình yêu dẫu có cũng chỉ là ước mơ trong mỗi cuộc đời... [Am7 D7 G]()<br>
+ 
+Đừng nên cố gắng tìm thấy nhau [Cmaj7 D7]()<br>
+Đừng nên cố bước cùng nỗi đau [Bm7 Em7]()<br>
+Tình yêu có lúc tự tìm đến với ta trong đêm tối cô đơn... [Cmaj7 D7 G Gsus4]()<br>
+ 
+Có một người bước qua biết bao cuộc tình [Cmaj7 Bm7]()<br>
+Ngỡ rằng mình là người hạnh phúc nhất trên đời... [Am7 D7 G]()<br>
+Đến một ngày bước chân mỏi mệt [C D]()<br>
+Bỗng nhìn lại không còn ai đứng bên ta [C D7 G]()<br>
+
+
 ## Tái bút anh yêu em
 
 Vòng: [Em C G D]() (C: 32xxxx)
@@ -167,7 +191,7 @@ Vì anh yêu em <br>
 
 ## Tháng tư là lời nói dối của em
 
-Capo 3
+Capo: 3
 
 Mùa xuân có em như chưa bắt đầu [C D Bm Em]()<br>
 Và cơn gió như khẽ mơn man lay từng nhành hoa rơi [C D Bm Em]()<br>
@@ -186,7 +210,7 @@ Giá như tôi một lần tin em, cô gái tôi thương, này hoá theo mây g
 Để lại tháng tư ở đó [C Bm Em]()<br>
  
 Mùa xuân mất em như đã bắt đầu [C D Bm Em]()<br>
-Và cơn gió như khẽ vô tình lấy từng nhành hoa rơi ] [C D Bm Em]()<br>
+Và cơn gió như khẽ vô tình lấy từng nhành hoa rơi [C D Bm Em]()<br>
 Em vội xa khuất theo tia nắng chiều [C D Bm Em]()<br>
 Để lại dấu chân giữa cánh đồng xanh [C D Esus4 E]()<br>
  
