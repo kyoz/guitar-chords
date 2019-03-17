@@ -7,6 +7,7 @@ My favorites song chords for guitar
 - [Giấc mơ chỉ là giấc mơ](#giấc-mơ-chỉ-là-giấc-mơ)
 - [Gửi em người anh mới quen](#gửi-em-người-anh-mới-quen)
 - [Một đêm say](#một-đêm-say)
+- [Ngày mai nắng lên anh sẽ về](#ngày-mai-nắng-lên-anh-sẽ-về)
 - [Người con gái ta thương](#người-con-gái-ta-thương)
 - [Người ta nói](#người-ta-nói)
 - [Quê hương Việt Nam](#quê-hương-việt-nam)
@@ -184,6 +185,35 @@ Giờ còn đôi ta, em có muốn đi thật [C G]() xa?<br>
 Outro :<br>
 Khi đôi môi em còn đỏ mọng, khi anh nói “ anh yêu em ” [G Em]()<br>
 Khi anh ta còn say giấc nồng, lại gần hôn anh đi…[C G]()<br>
+
+
+## Ngày mai nắng lên anh sẽ về
+
+Anh mơ năm nay khi xuân về được gần em [A]()<br>
+Sắc thắm môi son đan tay mình bước êm đềm [F#m]()<br>
+Vẫn biết xa nhau em sẽ thật buồn nhiều lắm [D]()<br>
+Anh mong cô đơn đi qua để ngày đầy nắng. [E]()<br>
+ 
+Nhớ lắm môi hôn tiếng nói ngọt ngào của em [A]()<br>
+Mỗi lúc xuân sang đan tay mình bước êm đềm [F#m]()<br>
+Bao nhiêu yêu thương anh giữ thật chặt người ơi [D]()<br>
+Thương em yêu em anh mơ một ngày bình yên. [E]()<br>
+
+Anh thương em không ? --- Anh thương em nhiều lắm! [A]()<br>
+Anh mơ em không ? --- AK: Anh mơ mỗi ngày... [F#m]()<br>
+Có nhớ đến em ? Mỗi phút mỗi giây mỗi giờ. [D]()<br>
+Anh có yêu em ? Có, anh mãi yêu em... [E]()<br>
+
+Đk:
+Sóng phát thanh nói ngày mai lạnh lắm [A]()<br>
+Em đi đâu nhớ mặc thêm áo nhiều [F#m]()<br>
+Nhớ lúc mưa đi thật châm em nhé [D]()<br>
+Anh thương em mong về em mọi lúc [E]()<br>
+
+Muốn thấy em mãi được vui trong nắng [A]()<br>
+Khẽ lướt qua như ngàn hương thơm này [F#m]()<br>
+Nhắn gió mây trao lời ca anh hát [D]()<br>
+Mong đêm nay ta được bên nhau mãi... [E]()<br>
 
 
 ## Người con gái ta thương
