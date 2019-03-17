@@ -10,6 +10,7 @@ My favorites song chords for guitar
 - [Người ta nói](#người-ta-nói)
 - [Tái bút anh yêu em](#tái-bút-anh-yêu-em)
 - [Tháng tư là lời nói dối của em](#tháng-tư-là-lời-nói-dối-của-em)
+- [Và tôi đã yêu](#và-tôi-đã-yêu)
 - [Vội vàng](#vội-vàng)
 
 
@@ -251,6 +252,47 @@ Nói lời thì thầm những điều thật thà đã giữ trong tim mình [C
 Những chặng đường dài ngỡ mình mệt nhoài đã một lần gục ngã [C D Bm Em]()<br>
 Tháng tư ánh sao phía xa bỗng nhiên dần tàn [C D Esus4 E]()<br>
 
+
+## Và tôi đã yêu
+
+C: 335553 | G: 355433 | Am: 577555 | F: 133211
+
+Verse 1:
+
+Và em có hay, chỉ một thoáng. Khi ta nhìn nhau [C G Am F]()<br>
+Và em có hay, vào giây phút, mơ hồ như quên từ lâu [C G Am F]()<br>
+Chỉ một lần nhìn thấy nhau, chưa từng biết tên [C G Am F]()<br>
+Nhưng con tim tôi nói rằng, [F ]ta là của nhau [Am F]()<br>
+Có chăng … [C G]()<br>
+Tôi gặp em từ lâu [Am]()<br>
+Cause nothing is, nothing is, nothing is what it seems [F]()<br>
+ 
+ĐK: 
+Trái tim thôi là thật và yêu thương là thật, [C G Am]()<br>
+Vì cuộc đời tôi chưa từng một lần được yêu như bây giờ. [F]()<br>
+Trái tim tôi là thật, mà yêu thương khó nói. [C G Am]()<br>
+Dù bấy lâu tôi vẫn muốn nói với một người: [F G Am]()<br>
+“Hello... So how are you” [G Am G]()<br>
+I think we are in trouble now. [F]()<br>
+ 
+Verse 2: 
+
+Đường ta đã quên, giờ bên em dường như thật lạ 
+Để ta đắm say, tình yêu ấy
+Mơ mai này bên đời nhau 
+Chỉ một lần nhìn thấy nhau, chưa từng biết tên
+Nhưng con tim tôi nói rằng, ta là của nhau 
+Có chăng…
+Tôi gặp em từ lâu 
+Cause nothing is, nothing is, nothing is what it seems
+
+ĐK -----------------------------------------------------------------------------
+
+Bridge:
+Và rồi khi ta đứng đây, từng phút giây ngừng trôi, để con tim cất lên [Am F C G Am F]()<br>
+Cause nothing is, nothing is, nothing is what it seems [F]()<br>
+
+ĐK -----------------------------------------------------------------------------
 
 ## Vội vàng
 
