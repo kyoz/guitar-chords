@@ -5,6 +5,7 @@ My favorites song chords for guitar
 - [Dấu phố em qua](#dấu-phố-em-qua)
 - [Đừng quên nhau](#Đừng-quên-nhau)
 - [Giấc mơ chỉ là giấc mơ](#giấc-mơ-chỉ-là-giấc-mơ)
+- [Gửi em người anh mới quen](#gửi-em-người-anh-mới-quen)
 - [Một đêm say](#một-đêm-say)
 - [Người con gái ta thương](#người-con-gái-ta-thương)
 - [Người ta nói](#người-ta-nói)
@@ -122,6 +123,41 @@ Vẫn thầm mong anh yêu nơi xa sống vui bình yên [C Am D]()<br>
 Ngày trôi mãi xa sao tình yêu vẫn cứ ở lại [G D Em Bm]()<br>
 Tháng năm dài tình em héo khô [C D]()<br>
 Theo bóng ai kia hững hờ. [Em]()<br>
+
+
+## Gửi em người anh mới quen
+
+Ta quen nhau bao lâu em ơi [A E]()<br>
+Đôi khi anh suy tư miên man [C#m]()<br>
+Nếu đã chắc có lỡ mai này yêu [F#m]()<br>
+Bao nhiêu đêm anh mong tim em [A E]()<br>
+Anh mơ em đang nơi đây [C#m]()<br>
+Cho anh yêu em hơn những lời nói [F#m]()<br>
+
+Anh vẫn thường nhìn ngắm em [C#m]()<br>
+Nơi xa đó [F#m]()<br>
+Muốn hôn nhẹ vào mắt em [C#m]()<br>
+Vuốt ve dịu dàng môi xinh [E D]()<br>
+Những yêu thương ban đầu,vốn rất lạ [D D]()<br>
+Nơi con tim anh gọi thầm tên em [E]()<br>
+
+Đk:
+
+Anh thực sự rất nhớ [A]()<br>
+Nhớ em từng đêm [E]()<br>
+Cần một lời âu yếm [Bm]()<br>
+Anh muốn em nhiêu hơn [F#m]()<br>
+Mong ngày ấy thật gần [C#m]()<br>
+Cho giây phút lặng thầm [D]()<br>
+Để bàn tay tôi không xa rời những vuốt ve [D E]()<br>
+
+Nhớ anh nhiều không [E]()<br>
+Để từng ngày đi qua [Bm]()<br>
+Anhh yêu em trong giấc mơ [F#m]()<br>
+Bao giờ mới nồng nàn [C#m]()<br>
+Ta không quá vội vàng [F#m]()<br>
+Để ngày mai trong anh vẫn còn những khát khao [D E]()<br>
+Được yêu thương ứ ứ ơ [A]()<br>
 
 
 ## Một đêm say
