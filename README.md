@@ -5,8 +5,8 @@ My favorites song chords for guitar
 - [Dấu phố em qua](#dấu-phố-em-qua)
 - [Đừng quên nhau](#Đừng-quên-nhau)
 - [Giấc mơ chỉ là giấc mơ](#giấc-mơ-chỉ-là-giấc-mơ)
+- [Một đêm say](#một-đêm-say)
 - [Người con gái ta thương](#người-con-gái-ta-thương)
-- [Giấc mơ chỉ là giấc mơ](#giấc-mơ-chỉ-là-giấc-mơ)
 - [Người ta nói](#người-ta-nói)
 - [Tái bút anh yêu em](#tái-bút-anh-yêu-em)
 - [Tháng tư là lời nói dối của em](#tháng-tư-là-lời-nói-dối-của-em)
@@ -102,6 +102,55 @@ Hãy vững lối em chọn để khi ta gặp lại [Am F Am F]()<br>
 Mình không nuối tiếc thời gian xa cách nhau. [G C]()<br>
 
 
+## Giấc mơ chỉ là giấc mơ
+
+Ðêm nay lại một đêm nữa [Em G]()<br>
+Em nhớ mong anh đến từng phút giây trôi qua vô tình [D Am B]()<br>
+Anh đang ở một nơi xa em nhớ mong anh vô cùng. [Em G D]()<br>
+Uớc sao mình được bên nhau đêm nay [Am C]()<br>
+Giấc mơ chỉ là giấc mơ ! [D Em]()<br>
+Em mơ về ngày xa xăm ta sống bên nhau [Em G D]()<br>
+Không còn cách xa không còn mong chờ. [Am B]()<br>
+Em mơ đuợc ngồi bên anh ta nói với nhau bao điều. [Em G D]()<br>
+Những vui buồn ta cùng trong tay nhau [Am C]()<br>
+Giấc mơ chỉ là giấc mơ ! [D Em]()<br>
+<br>
+Rồi anh cứ đi, để rồi đây em vẫn mong chờ [G D Em Bm]()<br>
+Vẫn thầm mong anh yêu nơi xa sống vui bình yên [C Am D]()<br>
+Ngày trôi mãi xa sao tình yêu vẫn cứ ở lại [G D Em Bm]()<br>
+Tháng năm dài tình em héo khô [C D]()<br>
+Theo bóng ai kia hững hờ. [Em]()<br>
+
+
+## Một đêm say
+
+Verse 1 :<br>
+Khi đôi môi em còn [G]() đỏ mọng, em muốn nói “em [Em]() yêu anh” ?<br>
+Khi men còn trong [C]() hơi thở, lại gần hôn anh [G]() đi.<br>
+Khi con tim không còn trên [G]() đầu, khi hai má em hây hây [Em]()<br>
+Em nói em say tiếng[C]() đàn, vậy lại gần hôn anh đi. [G]()<br>
+ 
+Chorus :<br>
+Lại gần hôn [G]() anh, anh sẽ để em mặt trời [Em]()<br>
+Lại gần hôn [C]() anh, hay em để anh chơi vơi [G]()<br>
+Giờ còn đôi ta [G](), kia là núi đây là nhà [Em]()<br>
+Giờ còn đôi [C]() ta, em có muốn đi thật [G]() xa?<br>
+ 
+Verse 2 :<br>
+Ta chỉ sống một lần trên [G]() đời, suy nghĩ lắm chi em [Em]() ơi…<br>
+Bao nhiêu yêu thương [C]() trên đời, là vị ngọt trên [G]() đôi môi<br>
+ 
+Chorus :<br>
+Lại gần hôn [G]() anh, anh sẽ để em mặt trời [Em]()<br>
+Lại gần hôn [C]() anh, hay em để anh chơi vơi[G]()<br>
+Giờ còn đôi ta [G](), kia là núi đây là nhà [Em]()<br>
+Giờ còn đôi [C]() ta, em có muốn đi thật [G]() xa?<br>
+
+Outro :<br>
+Khi đôi môi em còn đỏ [G]() mọng, khi anh nói “ anh yêu em ” [Em]()<br>
+Khi anh ta còn [C]() say giấc nồng, lại gần hôn [G]() anh đi….<br>
+
+
 ## Người con gái ta thương
 
 Người con gái ta thương [G C]()<br>
@@ -123,26 +172,6 @@ Bỏng rát con tim ta  [G C]()<br>
 ...Nếu muốn khóc cứ đến...bên ta những lúc yếu...lòng [D Em]()<br>
 Ta thương em...thương em thương em...nhiều [C D]()<br>
 Và ta xót cho ta [G]()<br>
-
-
-## Giấc mơ chỉ là giấc mơ
-
-Ðêm nay lại một đêm nữa [Em G]()<br>
-Em nhớ mong anh đến từng phút giây trôi qua vô tình [D Am B]()<br>
-Anh đang ở một nơi xa em nhớ mong anh vô cùng. [Em G D]()<br>
-Uớc sao mình được bên nhau đêm nay [Am C]()<br>
-Giấc mơ chỉ là giấc mơ ! [D Em]()<br>
-Em mơ về ngày xa xăm ta sống bên nhau [Em G D]()<br>
-Không còn cách xa không còn mong chờ. [Am B]()<br>
-Em mơ đuợc ngồi bên anh ta nói với nhau bao điều. [Em G D]()<br>
-Những vui buồn ta cùng trong tay nhau [Am C]()<br>
-Giấc mơ chỉ là giấc mơ ! [D Em]()<br>
-<br>
-Rồi anh cứ đi, để rồi đây em vẫn mong chờ [G D Em Bm]()<br>
-Vẫn thầm mong anh yêu nơi xa sống vui bình yên [C Am D]()<br>
-Ngày trôi mãi xa sao tình yêu vẫn cứ ở lại [G D Em Bm]()<br>
-Tháng năm dài tình em héo khô [C D]()<br>
-Theo bóng ai kia hững hờ. [Em]()<br>
 
 
 ## Người ta nói
