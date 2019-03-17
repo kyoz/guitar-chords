@@ -143,19 +143,14 @@ Nơi con tim anh gọi thầm tên em [E]()<br>
 
 Đk:
 
-Anh thực sự rất nhớ [A]()<br>
-Nhớ em từng đêm [E]()<br>
-Cần một lời âu yếm [Bm]()<br>
-Anh muốn em nhiêu hơn [F#m]()<br>
-Mong ngày ấy thật gần [C#m]()<br>
-Cho giây phút lặng thầm [D]()<br>
+Anh thực sự rất nhớ, nhớ em từng đêm [A E]()<br>
+Cần một lời âu yếm, anh muốn em nhiêu hơn [Bm F#m]()<br>
+Mong ngày ấy thật gần, cho giây phút lặng thầm [C#m D]()<br>
 Để bàn tay tôi không xa rời những vuốt ve [D E]()<br>
 
-Nhớ anh nhiều không [E]()<br>
-Để từng ngày đi qua [Bm]()<br>
-Anhh yêu em trong giấc mơ [F#m]()<br>
-Bao giờ mới nồng nàn [C#m]()<br>
-Ta không quá vội vàng [F#m]()<br>
+Em thực sự có nhớ, nhớ anh nhiều không [A E]()<br>
+Để từng ngày đi qua, anh yêu em trong giấc mơ [Bm F#m]()<br>
+Bao giờ mới nồng nàn, ta không quá vội vàng [C#m F#m]()<br>
 Để ngày mai trong anh vẫn còn những khát khao [D E]()<br>
 Được yêu thương ứ ứ ơ [A]()<br>
 
