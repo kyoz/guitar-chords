@@ -127,12 +127,12 @@ Theo bóng ai kia hững hờ. [Em]()<br>
 
 ## Gửi em người anh mới quen
 
-Ta quen nhau bao lâu em ơi [A E]()<br>
-Đôi khi anh suy tư miên man [C#m]()<br>
-Nếu đã chắc có lỡ mai này yêu [F#m]()<br>
-Bao nhiêu đêm anh mong tim em [A E]()<br>
-Anh mơ em đang nơi đây [C#m]()<br>
-Cho anh yêu em hơn những lời nói [F#m]()<br>
+Ta quen nhau bao lâu em ơi<br>
+Đôi khi anh suy tư miên man [E]()<br>
+Nếu đã chắc có lỡ mai này yêu [C#m F#m]()<br>
+Bao nhiêu đêm anh mong tim em [A]()<br>
+Anh mơ em đang nơi đây [E]()<br>
+Cho anh yêu em hơn những lời nói [C#m F#m]()<br>
 
 Anh vẫn thường nhìn ngắm em [C#m]()<br>
 Nơi xa đó [F#m]()<br>
