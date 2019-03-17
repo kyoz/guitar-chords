@@ -8,6 +8,7 @@ My favorites song chords for guitar
 - [Một đêm say](#một-đêm-say)
 - [Người con gái ta thương](#người-con-gái-ta-thương)
 - [Người ta nói](#người-ta-nói)
+- [Quê hương Việt Nam](#quê-hương-việt-nam)
 - [Tái bút anh yêu em](#tái-bút-anh-yêu-em)
 - [Tháng tư là lời nói dối của em](#tháng-tư-là-lời-nói-dối-của-em)
 - [Và tôi đã yêu](#và-tôi-đã-yêu)
@@ -200,6 +201,33 @@ Ngỡ rằng mình là người hạnh phúc nhất trên đời... [Am7 D7 G]()
 Bỗng nhìn lại không còn ai đứng bên ta [C D7 G]()<br>
 
 
+## Quê hương Việt Nam
+
+Một ngày mới khi ánh nắng lên [G]()<br>
+Gió khẽ đưa trên bông lúa xanh [Cadd9]()<br>
+Và tình yêu trong tim có em gần bên anh [G D]()<br>
+
+Dịu dàng anh đưa em qua tháng năm [G]()<br>
+Ở nơi đây tràn đầy mến thương [Cadd9]()<br>
+Gửi lời yêu lắm ôi quê hương Việt Nam [G D G]()<br>
+
+Mùa xuân sang muôn hoa thắm tươi [G]()<br>
+Khắp nơi nơi rộn ràng tiếng cười [Cadd9]()<br>
+Và hạ sang mang theo khát khao màu nắng mới [G D]()<br>
+
+Rồi mùa thu qua cho bao ước mơ [G]()<br>
+Mỗi sớm chiều cùng nhìn lá rơi [Cadd9]()<br>
+Gửi lời yêu lắm ôi quê hương Việt Nam [G D G]()<br>
+
+Đk:<br>
+Yêu lắm nơi này...cho bao nhiêu yêu thương ta trao nhau [G]()<br>
+Yêu lắm nơi này...từng ngày rộn ràng trôi qua mau [Cadd9]()<br>
+Yêu lắm những gì...nhẹ trôi êm đềm [G D]()<br>
+Yêu lắm nơi này...cho bao nhiêu yêu thương anh trao em [G]()<br>
+Yêu lắm nơi này...từng ngày rộn ràng trôi qua thêm [Cadd9]()<br>
+Và gửi lời yêu lắm ôi quê hương Việt Nam [G D G]()<br>
+
+
 ## Tái bút anh yêu em
 
 Vòng: [Em C G D]() (C: 32xxxx)
@@ -275,7 +303,7 @@ Dù bấy lâu tôi vẫn muốn nói với một người: [F G Am]()<br>
 “Hello... So how are you” [G Am G]()<br>
 I think we are in trouble now. [F]()<br>
  
-Verse 2: 
+Verse 2:
 
 Đường ta đã quên, giờ bên em dường như thật lạ<br>
 Để ta đắm say, tình yêu ấy<br>
@@ -316,3 +344,9 @@ Bản tình ca ngày xưa của đôi mình [G D]()<br>
 Anh vẫn hát khi vui [A Bm]()<br>
 Chà lá la là la, la la la lá lá, [G D A Bm]()<br>
 Chà lá la là la, la la la là là. [G D A D]()<br>
+
+
+"------------------------------------------------------------------------------"
+View later
+
+[Lời yêu em](https://hopamchuan.com/song/8209/loi-yeu-em/)
