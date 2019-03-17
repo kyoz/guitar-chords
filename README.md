@@ -277,14 +277,14 @@ I think we are in trouble now. [F]()<br>
  
 Verse 2: 
 
-Đường ta đã quên, giờ bên em dường như thật lạ 
-Để ta đắm say, tình yêu ấy
-Mơ mai này bên đời nhau 
-Chỉ một lần nhìn thấy nhau, chưa từng biết tên
-Nhưng con tim tôi nói rằng, ta là của nhau 
-Có chăng…
-Tôi gặp em từ lâu 
-Cause nothing is, nothing is, nothing is what it seems
+Đường ta đã quên, giờ bên em dường như thật lạ<br>
+Để ta đắm say, tình yêu ấy<br>
+Mơ mai này bên đời nhau<br>
+Chỉ một lần nhìn thấy nhau, chưa từng biết tên<br>
+Nhưng con tim tôi nói rằng, ta là của nhau<br>
+Có chăng…<br>
+Tôi gặp em từ lâu<br>
+Cause nothing is, nothing is, nothing is what it seems<br>
 
 ĐK -----------------------------------------------------------------------------
 
