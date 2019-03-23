@@ -17,7 +17,7 @@ Rồi mùa thu qua cho bao ước mơ [G]()<br>
 Mỗi sớm chiều cùng nhìn lá rơi [Cadd9]()<br>
 Gửi lời yêu lắm ôi quê hương Việt Nam [G D G]()<br>
 
-**Đk**:<br>
+**Chorus**:<br>
 Yêu lắm nơi này...cho bao nhiêu yêu thương ta trao nhau [G]()<br>
 Yêu lắm nơi này...từng ngày rộn ràng trôi qua mau [Cadd9]()<br>
 Yêu lắm những gì...nhẹ trôi êm đềm [G D]()<br>

@@ -13,6 +13,7 @@ Trên lá rớt rơi ngoài hiên [G D]()<br>
 Vì lòng anh vương chút nắng [F#m Bm]()<br>
 Nên ta cứ mãi xa nhau [G A]()<br>
 
+**Chorus**:<br>
 Rồi mùa xuân chợt mang mưa về [G D]()<br>
 Em tan vào trong hư vô [A Bm]()<br>
 Rồi tình yêu chợt như phai nhoà [G D]()<br>

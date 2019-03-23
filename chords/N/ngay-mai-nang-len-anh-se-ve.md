@@ -16,7 +16,7 @@ Anh mơ em không ? --- AK: Anh mơ mỗi ngày... [F#m]()<br>
 Có nhớ đến em ? Mỗi phút mỗi giây mỗi giờ. [D]()<br>
 Anh có yêu em ? Có, anh mãi yêu em... [E]()<br>
 
-**Đk**:
+**Chorus**:
 Sóng phát thanh nói ngày mai lạnh lắm [A]()<br>
 Em đi đâu nhớ mặc thêm áo nhiều [F#m]()<br>
 Nhớ lúc mưa đi thật châm em nhé [D]()<br>

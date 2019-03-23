@@ -13,7 +13,7 @@ Nói lời thì thầm những điều thật thà đã giữ trong tim mình [C
 Những chặng đường dài ngỡ mình mệt nhoài đã một lần gục ngã [C D Bm Em]()<br>
 Tháng tư có em ở đây nhìn tôi mỉm cười [C D Esus4 E]()<br>
 
-**ĐK**:<br>
+**Chorus**:<br>
 Những cánh hoa phai tàn thật nhanh, em có bay xa, em có đi xa mãi [C D Bm Em]()<br>
 Tháng tư đôi khi thật mong mạnh để mình nói ra những câu chân thật [C D G G7]()<br>
 Giá như tôi một lần tin em, cô gái tôi thương, này hoá theo mây gió [C D Bm Em]()<br>
