@@ -1,4 +1,4 @@
-## Gửi em người anh mới quen
+# Gửi em người anh mới quen
 > Nguyễn Đức Cường
 
 Ta quen nhau bao lâu em ơi<br>
@@ -15,7 +15,7 @@ Vuốt ve dịu dàng môi xinh [E D]()<br>
 Những yêu thương ban đầu,vốn rất lạ [D D]()<br>
 Nơi con tim anh gọi thầm tên em [E]()<br>
 
-Đk:
+**Đk**:
 
 Anh thực sự rất nhớ, nhớ em từng đêm [A E]()<br>
 Cần một lời âu yếm, anh muốn em nhiêu hơn [Bm F#m]()<br>

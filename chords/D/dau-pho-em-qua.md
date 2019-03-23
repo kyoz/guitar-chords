@@ -1,7 +1,7 @@
-## Dấu phố em qua
+# Dấu phố em qua
 > Hà Anh Tuấn
 
-Capo: 1
+**Capo: 1**
 
 Dấu phố em qua một chiều thu nắng vàng [G D Em C]()<br>
 Nhẹ nhàng rơi rơi đón lá thu bay vờn bay trong gió xưa [G D C D]()<br>

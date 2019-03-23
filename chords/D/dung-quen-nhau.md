@@ -1,7 +1,7 @@
-## Đừng quên nhau
+# Đừng quên nhau
 > Hà Anh Tuấn ft Phương Linh
 
-Capo: 3
+**Capo: 3**
 
 Ngày mai ơi đừng đến nữa [C Em]()<br>
 Vì chúng ta chỉ còn bên nhau hết đêm nay [Am F G]()<br>
@@ -17,7 +17,7 @@ Dù cho năm tháng đã [F]()<br>
 Dù cho yêu dấu đã [Am]()<br>
 Dù cho mưa nắng đã cách xa. [F G]()<br>
 
-Đk:<br> 
+**Đk**:<br> 
 Đừng quên em nhé, đừng quên em nhé anh [C G]()<br>
 Đừng quên những năm tháng mình có nhau [Am G]()<br>
 Đừng quên lời hứa anh chờ em [Am]()<br>

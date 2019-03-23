@@ -13,7 +13,7 @@ Anh sẽ viết những bức thư, em sẽ đi thêu thùa [G D Cadd9]()<br>
 Duyên đưa lứa đôi ta gần bên nhau [G D Cadd9]()<br>
 Oh, Biết đâu, biết đâu ... ah ha [G]()<br>
 
-**ĐK:**<br>
+**ĐK**:<br>
 Có sai đâu em nếu anh và em chung lối [G D Cadd9]()<br>
 Giống như ai kia thôi mà [G D Fmaj7]()<br>
 Có sai đâu em nếu anh đàn và em hát [G D Cadd9]()<br>

@@ -1,7 +1,7 @@
 # Cuộc đời là những bước chân
 > Bích Phương ft Hà Anh Tuấn
 
-Capo: 4
+**Capo: 4**
 
 Nhớ xưa thật xưa [D]()<br>
 Bước chân chập chững hay khóc nhè [G]()<br>
@@ -14,8 +14,8 @@ Chúng ta lười lắm hay trốn học [G]()<br>
 Lấm lem chạy theo đám bạn cùng phòng [Bm G]()<br>
 Mưa nắng ta cùng về chung đôi [D G]()<br>
 Em biết yêu thật rồi [Bm G]()<br>
- 
-Đk:<br> 
+
+**Đk**:<br>
 Phút giây này em giữ muôn đời [D]()<br>
 Mai này mang theo khắp nơi [G]()<br>
 Khoảnh khắc ấy tuyệt vời [Bm]()<br>
@@ -32,7 +32,7 @@ Cách xa làm anh đếm ngày từng ngày [Bm G]()<br>
 Anh khát khao tìm về muôn nơi [D G]()<br>
 Em bước theo dòng đời [Bm G]()<br>
  
-Đk:<br> 
+**Đk**:<br> 
 Bước chân này em giữ muôn đời [D]()<br>
 Mai này mang theo khắp nơi … [G]()<br>
 
