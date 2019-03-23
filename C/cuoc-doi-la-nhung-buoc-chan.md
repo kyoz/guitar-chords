@@ -1,5 +1,5 @@
 # Cuộc đời là những bước chân
-> Bích Phương & Hà Anh Tuấn
+> Bích Phương ft Hà Anh Tuấn
 
 Capo: 4
 
