@@ -16,7 +16,6 @@ Mưa nắng ta cùng về chung đôi [D G]()<br>
 Em biết yêu thật rồi [Bm G]()<br>
 
 **Chorus**:<br>
-
 Phút giây này em giữ muôn đời [D]()<br>
 Mai này mang theo khắp nơi [G]()<br>
 Khoảnh khắc ấy tuyệt vời [Bm]()<br>
@@ -34,7 +33,6 @@ Anh khát khao tìm về muôn nơi [D G]()<br>
 Em bước theo dòng đời [Bm G]()<br>
  
 **Chorus**:<br> 
-
 Bước chân này em giữ muôn đời [D]()<br>
 Mai này mang theo khắp nơi … [G]()<br>
 
