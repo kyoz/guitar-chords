@@ -15,7 +15,7 @@ Vuốt ve dịu dàng môi xinh [E D]()<br>
 Những yêu thương ban đầu,vốn rất lạ [D D]()<br>
 Nơi con tim anh gọi thầm tên em [E]()<br>
 
-**Chorus**:
+**Chorus**:<br>
 Anh thực sự rất nhớ, nhớ em từng đêm [A E]()<br>
 Cần một lời âu yếm, anh muốn em nhiêu hơn [Bm F#m]()<br>
 Mong ngày ấy thật gần, cho giây phút lặng thầm [C#m D]()<br>
