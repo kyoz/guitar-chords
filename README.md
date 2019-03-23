@@ -1,8 +1,8 @@
 # :guitar: Guitar Chords 
-My favorites song chords for guitar
+> My favorites song chords for guitar
 
-- [Cuộc đời là những bước chân](#cuộc-đời-là-những-bước-chân)
-- [Dấu phố em qua](#dấu-phố-em-qua)
+- [Cuộc đời là những bước chân](./C/cuoc-doi-la-nhung-buoc-chan.md)
+- [Dấu phố em qua](./D/dau-pho-em-qua.md)
 - [Đừng quên nhau](#Đừng-quên-nhau)
 - [Giấc mơ chỉ là giấc mơ](#giấc-mơ-chỉ-là-giấc-mơ)
 - [Gửi em người anh mới quen](#gửi-em-người-anh-mới-quen)
@@ -16,65 +16,6 @@ My favorites song chords for guitar
 - [Và tôi đã yêu](#và-tôi-đã-yêu)
 - [Vội vàng](#vội-vàng)
 
-
-## Cuộc đời là những bước chân
-
-Capo: 4
-
-Nhớ xưa thật xưa [D]()<br>
-Bước chân chập chững hay khóc nhè [G]()<br>
-Chúng ta tập đi vững dần nhờ Mẹ [Bm G]()<br>
-Em lớn lên ngập tràn yêu thương [D G]()<br>
-Đôi bước chân cùng trường [Bm G]()<br>
-
-Cấp Hai vội qua [D]()<br>
-Chúng ta lười lắm hay trốn học [G]()<br>
-Lấm lem chạy theo đám bạn cùng phòng [Bm G]()<br>
-Mưa nắng ta cùng về chung đôi [D G]()<br>
-Em biết yêu thật rồi [Bm G]()<br>
- 
-Đk:<br> 
-Phút giây này em giữ muôn đời [D]()<br>
-Mai này mang theo khắp nơi [G]()<br>
-Khoảnh khắc ấy tuyệt vời [Bm]()<br>
-Nguyện giữ mãi trọn đời [G]()<br>
- 
-Dẫu xa mà ta ngỡ như gần [D]()<br>
-Ta cùng nâng niu bước chân [G]()<br>
-Anh hứa sẽ yêu em [Bm]()<br>
-Năm tháng mãi bên em [G]()<br>
- 
-Cuối năm mười hai [D]()<br>
-Dáng em đẹp lắm trong áo dài [G]()<br>
-Cách xa làm anh đếm ngày từng ngày [Bm G]()<br>
-Anh khát khao tìm về muôn nơi [D G]()<br>
-Em bước theo dòng đời [Bm G]()<br>
- 
-Đk:<br> 
-Bước chân này em giữ muôn đời [D]()<br>
-Mai này mang theo khắp nơi … [G]()<br>
-
-
-## Dấu phố em qua
-
-Capo: 1
-
-Dấu phố em qua một chiều thu nắng vàng [G D Em C]()<br>
-Nhẹ nhàng rơi rơi đón lá thu bay vờn bay trong gió xưa [G D C D]()<br>
-Dấu phố em qua một chiều mưa cuối mùa [G D Em C]()<br>
-Từng hạt mưa bay nước mắt đam mê một tình yêu [G D C G]()<br>
-
-Ngày yêu dấu đã qua chưa ? [C D]()<br>
-Tình yêu mong manh nắng chiều [Bm Em]()<br>
-Ngày xa vắng thoáng mênh mang [C D]()<br>
-Tình yêu chơi vơi gió trời [Bm Em]()<br>
-Theo mây êm đềm trôi đi mãi [C D7 Bm]()<br>
-Ôi chưa bao giờ em quên được anh [C D7 G]()<br>
-
-Dấu phố em qua hàng cây xưa hé nụ [G D Em C]()<br>
-Một loài hoa thơm dấu vết ngây thơ một tình yêu anh nhớ chăng [G D C D]()<br>
-Dấu phố thênh thang từng đêm quên lối về [G D Em C]()<br>
-Đợi mùa trăng lên đón ánh trăng rơi ngoài song [G D C G]()<br>
 
 
 ## Đừng quên nhau
