@@ -23,7 +23,7 @@ Bao nhiêu yêu thương trên đời, là vị ngọt trên đôi môi [C G]()<
 Lại gần hôn anh, anh sẽ để em mặt trời [G Em]()<br>
 Lại gần hôn anh, hay em để anh chơi vơi[C G]()<br>
 Giờ còn đôi ta, kia là núi đây là nhà [G Em]()<br>
-Giờ còn đôi ta, em có muốn đi thật [C G]() xa?<br>
+Giờ còn đôi ta, em có muốn đi thật xa? [C G]()<br>
 
 **Outro**:<br>
 Khi đôi môi em còn đỏ mọng, khi anh nói “ anh yêu em ” [G Em]()<br>
