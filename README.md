@@ -16,6 +16,7 @@ A, B, [C](#C), [D](#D), E, F, [G](#G), H, I, J, K, L, [M](#M), [N](#N), O, P, [Q
 
 ## G
 
+  - [Gặp em đúng lúc](./chords/G/gap-em-dung-luc.md)
   - [Giấc mơ chỉ là giấc mơ](./chords/G/giac-mo-chi-la-giac-mo.md)
   - [Gửi em người anh mới quen](./chords/G/gui-em-nguoi-anh-moi-quen.md)
 
