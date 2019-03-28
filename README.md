@@ -37,6 +37,7 @@ A, B, [C](#C), [D](#D), E, F, [G](#G), H, I, J, K, L, [M](#M), [N](#N), O, P, [Q
 
   - [Tái bút anh yêu em](./chords/T/tai-but-anh-yeu-em.md)
   - [Tháng tư là lời nói dối của em](./chords/T/thang-tu-la-loi-noi-doi-cua-em.md)
+  - [Trà sữa](./chords/T/tra-sua.md)
 
 ## V
 
