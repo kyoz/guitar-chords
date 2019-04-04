@@ -3,7 +3,7 @@
 
 **Capo: 2 (Đánh cho dễ)**, Đau họng quá thì Capo 1 mà táng =)) (Tông gốc: A F#m D A)
 
-Verse 1 :<br>
+**Verse 1**:<br>
 Khi đôi môi em còn đỏ mọng, em muốn nói “em yêu anh” ? [G Em]()<br>
 Khi men còn trong hơi thở, lại gần hôn anh đi. [C G]()<br>
 Khi con tim không còn trên đầu, khi hai má em hây hây [G Em]()<br>
