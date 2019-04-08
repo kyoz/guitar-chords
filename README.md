@@ -30,6 +30,7 @@ A, B, [C](#C), [D](#D), E, F, [G](#G), H, I, J, K, L, [M](#M), [N](#N), O, P, [Q
   - [Ngày mai nắng lên anh sẽ về](./chords/N/ngay-mai-nang-len-anh-se-ve.md)
   - [Người con gái ta thương](./chords/N/nguoi-con-gai-ta-thuong.md)
   - [Người ta nói](./chords/N/nguoi-ta-noi.md)
+  - [Nhớ](./chords/N/nho.md)
 
 ## Q
 
