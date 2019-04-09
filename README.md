@@ -20,6 +20,10 @@ A, B, [C](#C), [D](#D), E, F, [G](#G), H, I, J, K, L, [M](#M), [N](#N), O, P, [Q
   - [Giấc mơ chỉ là giấc mơ](./chords/G/giac-mo-chi-la-giac-mo.md)
   - [Gửi em người anh mới quen](./chords/G/gui-em-nguoi-anh-moi-quen.md)
 
+## K
+
+  - [Khi cô đơn em nhớ ai](./chords/K/khi-co-don-em-nho-ai.md)
+
 ## M
 
   - [Một đêm say](./chords/M/mot-dem-say.md)
