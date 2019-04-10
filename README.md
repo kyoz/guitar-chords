@@ -5,6 +5,7 @@ A, B, [C](#C), [D](#D), E, F, [G](#G), H, I, J, K, L, [M](#M), [N](#N), O, P, [Q
 
 ## C
 
+  - [Cảm giác lúc ấy sẽ ra sao](./chords/C/cam-giac-luc-ay-se-ra-sao.md)
   - [Cánh đồng yêu thương](./chords/C/canh-dong-yeu-thuong.md)
   - [Cuộc đời là những bước chân](./chords/C/cuoc-doi-la-nhung-buoc-chan.md)
 
