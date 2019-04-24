@@ -1,7 +1,7 @@
 # :guitar: Guitar Chords 
 > My favorites song chords for guitar
 
-A, B, [C](#C), [D](#D), E, F, [G](#G), H, I, J, K, L, [M](#M), [N](#N), O, P, [Q](#Q), R, S, [T](#T), U, [V](#V), W, X, Y, Z
+[A](#A), B, [C](#C), [D](#D), E, F, [G](#G), H, I, J, K, L, [M](#M), [N](#N), O, P, [Q](#Q), R, S, [T](#T), U, [V](#V), W, X, Y, Z
 
 ## A
 
