@@ -3,6 +3,10 @@
 
 A, B, [C](#C), [D](#D), E, F, [G](#G), H, I, J, K, L, [M](#M), [N](#N), O, P, [Q](#Q), R, S, [T](#T), U, [V](#V), W, X, Y, Z
 
+## A
+
+  - [Ai cũng có ngày xưa](./chords/A/ai-cung-co-ngay-xua.md)
+
 ## C
 
   - [Cảm giác lúc ấy sẽ ra sao](./chords/C/cam-giac-luc-ay-se-ra-sao.md)
