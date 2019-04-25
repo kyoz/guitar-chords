@@ -49,6 +49,7 @@
 
   - [Tái bút anh yêu em](./chords/T/tai-but-anh-yeu-em.md)
   - [Tháng tư là lời nói dối của em](./chords/T/thang-tu-la-loi-noi-doi-cua-em.md)
+  - [Thương nhau nhé](./chords/T/thuong-nhau-nhe.md)
   - [Trà sữa](./chords/T/tra-sua.md)
 
 ## V
