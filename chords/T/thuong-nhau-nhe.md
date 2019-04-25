@@ -3,6 +3,7 @@
 
 **Capo: 3**
 
+**Verse**:   
 [[C]]() Anh, cho em một lần chạm [[Em]]() lên đôi môi, màu mắt nâu   
 [[Am]]() Anh nơi đây một mình lặng [[F]]() thinh yêu anh người biết đâu   
 Từng cơn [[C]]() gió cuốn lấy làn [[Em]]() mây   
@@ -13,7 +14,7 @@ Từng tia [[Am]]() nắng lấp ló hàng [[F]]() cây
 [[C]]() Có anh ngày ngát thêm [[Em]]() hương   
 [[Am]]() Có anh đời bỗng thêm [[F]]() thương   
  
-ĐK: 
+**Chorus**:   
 Cùng nhau [[C]]() nhé, này người cùng nhau nhé   
 Cầm tay [[Em]]() nhau minh vượt ngàn thương đau   
 Cho nắng mưa dù [[Am]]() tơi bời, mây lấp đi ngàn chân trời   
