@@ -7,6 +7,10 @@
 
   - [Ai cũng có ngày xưa](./chords/A/ai-cung-co-ngay-xua.md)
 
+## B
+
+  - [Bài hát cho em](./chords/B/bai-hat-cho-em.md)
+
 ## C
 
   - [Cảm giác lúc ấy sẽ ra sao](./chords/C/cam-giac-luc-ay-se-ra-sao.md)
