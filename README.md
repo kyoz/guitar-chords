@@ -7,6 +7,7 @@
 
   - [Ai chờ ai](./chords/A/ai-cho-ai.md)
   - [Ai cũng có ngày xưa](./chords/A/ai-cung-co-ngay-xua.md)
+  - [Anh không muốn bất công với em](./chords/A/anh-khong-muon-bat-cong-voi-em.md)
 
 ## B
 
