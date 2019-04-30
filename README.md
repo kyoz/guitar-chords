@@ -45,6 +45,7 @@
 
 ## M
 
+  - [Mỗi người một nơi](./chords/M/moi-nguoi-mot-noi.md)
   - [Một đêm say](./chords/M/mot-dem-say.md)
   - [My love](./chords/M/my-love.md)
 
