@@ -5,6 +5,7 @@
 
 ## A
 
+  - [Ai chờ ai](./chords/A/ai-cho-ai.md)
   - [Ai cũng có ngày xưa](./chords/A/ai-cung-co-ngay-xua.md)
 
 ## B
