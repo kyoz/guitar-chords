@@ -1,7 +1,7 @@
 # :guitar: Guitar Chords 
 > My favorites song chords for guitar
 
-[A](#A), [B](#B), [C](#C), [D](#D), E, [F](#F), [G](#G), H, I, J, K, L, [M](#M), [N](#N), O, P, [Q](#Q), R, S, [T](#T), U, [V](#V), W, X, Y, Z
+[A](#A), [B](#B), [C](#C), [D](#D), E, [F](#F), [G](#G), [H](#H), I, J, K, L, [M](#M), [N](#N), O, P, [Q](#Q), R, S, [T](#T), U, [V](#V), W, X, Y, Z
 
 ## A
 
@@ -32,6 +32,10 @@
   - [Gặp em đúng lúc](./chords/G/gap-em-dung-luc.md)
   - [Giấc mơ chỉ là giấc mơ](./chords/G/giac-mo-chi-la-giac-mo.md)
   - [Gửi em người anh mới quen](./chords/G/gui-em-nguoi-anh-moi-quen.md)
+
+## H
+
+  - [HongKong1](./chords/H/hongkong1.md)
 
 ## K
 
