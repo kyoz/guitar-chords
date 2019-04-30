@@ -1,7 +1,7 @@
 # :guitar: Guitar Chords 
 > My favorites song chords for guitar
 
-[A](#A), [B](#B), [C](#C), [D](#D), E, F, [G](#G), H, I, J, K, L, [M](#M), [N](#N), O, P, [Q](#Q), R, S, [T](#T), U, [V](#V), W, X, Y, Z
+[A](#A), [B](#B), [C](#C), [D](#D), E, [F](#F), [G](#G), H, I, J, K, L, [M](#M), [N](#N), O, P, [Q](#Q), R, S, [T](#T), U, [V](#V), W, X, Y, Z
 
 ## A
 
@@ -22,6 +22,10 @@
   - [Dấu phố em qua](./chords/D/dau-pho-em-qua.md)
   - [Duyên](./chords/D/duyen.md)
   - [Đừng quên nhau](./chords/D/dung-quen-nhau.md)
+
+## F
+
+  - [Forever with you](./chords/F/forever-with-you.md)
 
 ## G
 
