@@ -49,6 +49,7 @@
 ## N
 
   - [Ngày mai nắng lên anh sẽ về](./chords/N/ngay-mai-nang-len-anh-se-ve.md)
+  - [Ngày xưa em đến](./chords/N/ngay-xua-em-den.md)
   - [Người con gái ta thương](./chords/N/nguoi-con-gai-ta-thuong.md)
   - [Người ta nói](./chords/N/nguoi-ta-noi.md)
   - [Nhớ](./chords/N/nho.md)
