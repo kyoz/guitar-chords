@@ -15,6 +15,7 @@
 
   - [Cảm giác lúc ấy sẽ ra sao](./chords/C/cam-giac-luc-ay-se-ra-sao.md)
   - [Cánh đồng yêu thương](./chords/C/canh-dong-yeu-thuong.md)
+  - [Chuyện của mùa đông](./chords/C/chuyen-cua-mua-dong.md)
   - [Cuộc đời là những bước chân](./chords/C/cuoc-doi-la-nhung-buoc-chan.md)
 
 ## D
