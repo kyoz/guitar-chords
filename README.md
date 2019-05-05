@@ -22,6 +22,7 @@
 
 ## D
 
+  - [Đã lâu](./chords/D/da-lau.md)
   - [Dấu phố em qua](./chords/D/dau-pho-em-qua.md)
   - [Duyên](./chords/D/duyen.md)
   - [Đừng quên nhau](./chords/D/dung-quen-nhau.md)
