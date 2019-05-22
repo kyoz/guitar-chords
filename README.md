@@ -75,6 +75,7 @@
 ## V
 
   - [Và tôi đã yêu](./chords/V/va-toi-da-yeu.md)
+  - [Về nhà](./chords/V/ve-nha.md)
   - [Vì một người ra đi](./chords/V/vi-mot-nguoi-ra-di.md)
   - [Vội vàng](./chords/V/voi-vang.md)
 
