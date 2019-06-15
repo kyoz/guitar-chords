@@ -1,10 +1,12 @@
 # Tái bút anh yêu em
 > Hà Anh Tuấn
 
-**Vòng: [Em C G D]() (C: 32xxxx)**
+**Capo: 3**
 
-Chạm tay với thiên đường [Em C]()<br>
-Anh đã sai giữa những phút yêu thương [G D]()<br>
+**Vòng: [Am F C G]() (C: 32xxxx)**
+
+Chạm tay với thiên đường [Am F]()<br>
+Anh đã sai giữa những phút yêu thương [C G]()<br>
 Từng hơi thở tan nhanh <br>
 Môi anh run rẩy nồng nàng lần cuối <br>
 
