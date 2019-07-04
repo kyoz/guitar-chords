@@ -26,8 +26,9 @@
   - [Đã lâu](./chords/D/da-lau.md)
   - [Dấu phố em qua](./chords/D/dau-pho-em-qua.md)
   - [Đến sau](./chords/D/den-sau.md)
-  - [Duyên](./chords/D/duyen.md)
   - [Đừng quên nhau](./chords/D/dung-quen-nhau.md)
+  - [Duyên phận](./chords/D/duyen-phan.md)
+  - [Duyên](./chords/D/duyen.md)
 
 ## F
 
