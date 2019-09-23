@@ -68,6 +68,10 @@
 
   - [Quê hương Việt Nam](./chords/Q/que-huong-viet-nam.md)
 
+## S
+
+  - [Sài gòn buồn quá em ơi](./chords/S/sai-gon-buon-qua-em-oi.md)
+
 ## T
 
   - [Tái bút anh yêu em](./chords/T/tai-but-anh-yeu-em.md)
