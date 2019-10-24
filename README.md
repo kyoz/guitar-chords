@@ -28,6 +28,7 @@
   - [Đến sau](./chords/D/den-sau.md)
   - [Đừng quên nhau](./chords/D/dung-quen-nhau.md)
   - [Duyên phận](./chords/D/duyen-phan.md)
+  - [Đừng yêu nữa em mệt rồi](./chords/D/dung-yeu-nua-em-met-roi.md)
   - [Duyên](./chords/D/duyen.md)
 
 ## F
