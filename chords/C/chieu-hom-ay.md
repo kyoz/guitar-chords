@@ -1,7 +1,7 @@
 # Chiều hôm ấy
 > JayK
 
-**Capo: 1   
+**Capo: 1**   
    
 Chiều hôm [[G]]() ấy em nói với anh   
 Rằng [[D]]() mình không nên gặp nhau nữa   

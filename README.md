@@ -80,6 +80,7 @@
   - [Tại sao](./chords/T/tai-sao.md)
   - [Tháng tư là lời nói dối của em](./chords/T/thang-tu-la-loi-noi-doi-cua-em.md)
   - [Thương nhau nhé](./chords/T/thuong-nhau-nhe.md)
+  - [Tìm](./chords/T/tim.md)
   - [Trà sữa](./chords/T/tra-sua.md)
 
 ## V
