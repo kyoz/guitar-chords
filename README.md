@@ -65,6 +65,7 @@
   - [Người ta nói](./chords/N/nguoi-ta-noi.md)
   - [Nhớ](./chords/N/nho.md)
   - [Như những yêu thương](./chords/N/nhu-nhung-yeu-thuong.md)
+  - [Nước ngoài](./chords/N/nuoc-ngoai.md)
 
 ## Q
 
