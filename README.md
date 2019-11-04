@@ -1,7 +1,7 @@
 # :guitar: Guitar Chords 
 > My favorites song chords for guitar
 
-[A](#A), [B](#B), [C](#C), [D](#D), E, [F](#F), [G](#G), [H](#H), I, J, K, L, [M](#M), [N](#N), O, P, [Q](#Q), R, S, [T](#T), U, [V](#V), W, X, Y, Z
+[A](#A), [B](#B), [C](#C), [D](#D), E, [F](#F), [G](#G), [H](#H), I, J, K, L, [M](#M), [N](#N), O, [P](#P), [Q](#Q), R, S, [T](#T), U, [V](#V), W, X, Y, Z
 
 ## A
 
@@ -67,6 +67,10 @@
   - [Như những yêu thương](./chords/N/nhu-nhung-yeu-thuong.md)
   - [Nước ngoài](./chords/N/nuoc-ngoai.md)
 
+## P
+
+  - [Proud of you](./chords/P/proud-of-you.md)
+
 ## Q
 
   - [Quê hương Việt Nam](./chords/Q/que-huong-viet-nam.md)
@@ -79,6 +83,7 @@
 
   - [Tái bút anh yêu em](./chords/T/tai-but-anh-yeu-em.md)
   - [Tại sao](./chords/T/tai-sao.md)
+  - [Take me to your heart](./chords/T/take-me-to-your-heart.md)
   - [Tháng tư là lời nói dối của em](./chords/T/thang-tu-la-loi-noi-doi-cua-em.md)
   - [Thương nhau nhé](./chords/T/thuong-nhau-nhe.md)
   - [Tìm](./chords/T/tim.md)
