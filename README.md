@@ -1,7 +1,7 @@
 # :guitar: Guitar Chords 
 > My favorites song chords for guitar
 
-[A](#A), [B](#B), [C](#C), [D](#D), E, [F](#F), [G](#G), [H](#H), I, J, K, L, [M](#M), [N](#N), O, [P](#P), [Q](#Q), R, S, [T](#T), U, [V](#V), W, X, Y, Z
+[A](#A), [B](#B), [C](#C), [D](#D), E, [F](#F), [G](#G), [H](#H), I, J, K, [L](#L), [M](#M), [N](#N), O, [P](#P), [Q](#Q), R, S, [T](#T), U, [V](#V), W, X, Y, Z
 
 ## A
 
@@ -49,6 +49,10 @@
 ## K
 
   - [Khi cô đơn em nhớ ai](./chords/K/khi-co-don-em-nho-ai.md)
+
+## L
+
+  - [Lời con hứa](./chords/L/loi-con-hua.md)
 
 ## M
 
