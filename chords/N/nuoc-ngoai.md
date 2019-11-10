@@ -1,7 +1,7 @@
 # Nước Ngoài
 > Phan Mạnh Quỳnh
 
-**Capo**: 1   
+**Capo**: 2   
 
 **Verse**:   
 
