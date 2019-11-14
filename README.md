@@ -25,6 +25,7 @@
 ## D
 
   - [Đã lâu](./chords/D/da-lau.md)
+  - [Đau Để Trưởng Thành](./chords/D/dau-de-truong-thanh.md)
   - [Dấu phố em qua](./chords/D/dau-pho-em-qua.md)
   - [Đến sau](./chords/D/den-sau.md)
   - [Đừng quên nhau](./chords/D/dung-quen-nhau.md)
