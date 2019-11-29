@@ -54,6 +54,7 @@
 ## L
 
   - [Lời con hứa](./chords/L/loi-con-hua.md)
+  - [Lời Từ Trái Tim Anh](./chords/L/loi-tu-trai-tim-anh.md)
 
 ## M
 
