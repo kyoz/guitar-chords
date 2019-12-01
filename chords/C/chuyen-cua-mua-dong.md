@@ -1,7 +1,5 @@
 # Chuyện của mùa đông
 > Hà Anh Tuấn
-
-**Capo: 2**   
    
 **Verse 1:**   
 Chuyện của mùa [[C]]() đông …   
