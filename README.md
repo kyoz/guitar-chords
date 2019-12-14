@@ -12,6 +12,7 @@
 ## B
 
   - [Bài hát cho em](./chords/B/bai-hat-cho-em.md)
+  - [Be your everything](./chords/B/be-your-everything.md)
 
 ## C
 
