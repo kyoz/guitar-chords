@@ -9,6 +9,7 @@
 [[Cadd9]]() But I don't have the guts to say it   
 [[Em7]]() Smile 'til it hurts   
 [[Cadd9]]() Let's not make it complicated   
+
 [[Em7]]() We've got a story   
 [[Cadd9]]() But I'm about to change the ending   
 [[Em7]]() You're perfect for me   
@@ -18,17 +19,17 @@ Gotta let you [[Cadd9]]() know somehow
 
 **Chorus:**
 
-[[G]]() I'll be your [[D]]() shelter   
+[[G]]() I'll be your shelter [[D]]()   
 [[Cadd9]]() I'll be your storm   
-[[G]]() I'll make you [[D]]() shiver   
+[[G]]() I'll make you shiver [[D]]()   
 [[Cadd9]]() I'll keep you warm   
-[[G]]() Whatever [[D]]() weather   
+[[G]]() Whatever weather [[D]]()   
 [[Cadd9]]() Baby I'm yours   
 [[Am7]]() Be your forever, be your fling   
 [[Cadd9]]() Baby I will [[D]]() be your everything   
 [[G]]() Baby I   
 [[D]]() Baby I will   
-[[Cadd9]]() Baby I will [[D]]() be your everything   
+[[Cadd9]]() Baby I will [[D]]() be your everything [[G]]()   
 
 **Verse 2:**
 
@@ -36,6 +37,7 @@ Gotta let you [[Cadd9]]() know somehow
 [[Cadd9]]() That we would always stick together   
 [[Em7]]() But who's to say   
 [[Cadd9]]() That we could never last forever   
+
 [[Em7]]() Girl, got a question   
 [[Cadd9]]() Could you see yourself with somebody else?   
 [[Em7]]()'Cause I'm on a mission   
