@@ -3,11 +3,11 @@
 
 **Capo: 1**
 
-**Verse: **
+**Verse 1:**
 
 [[Em7]]() Four letter word   
 [[Cadd9]]() But I don't have the guts to say it   
-[[Em7]] Smile 'til it hurts   
+[[Em7]]() Smile 'til it hurts   
 [[Cadd9]]() Let's not make it complicated   
 [[Em7]]() We've got a story   
 [[Cadd9]]() But I'm about to change the ending   
@@ -16,7 +16,7 @@
 So we can just stop pretending [[D]]() now   
 Gotta let you [[Cadd9]]() know somehow   
 
-**Chorus: **
+**Chorus:**
 
 [[G]]() I'll be your [[D]]() shelter   
 [[Cadd9]]() I'll be your storm   
@@ -24,13 +24,13 @@ Gotta let you [[Cadd9]]() know somehow
 [[Cadd9]]() I'll keep you warm   
 [[G]]() Whatever [[D]]() weather   
 [[Cadd9]]() Baby I'm yours   
-[[Am7]] Be your forever, be your fling   
-[[Cadd9]] Baby I will [[D]]() be your everything   
+[[Am7]]() Be your forever, be your fling   
+[[Cadd9]]() Baby I will [[D]]() be your everything   
 [[G]]() Baby I   
 [[D]]() Baby I will   
 [[Cadd9]]() Baby I will [[D]]() be your everything   
 
-**Verse 2: **:
+**Verse 2:**
 
 [[Em7]]() We used to say   
 [[Cadd9]]() That we would always stick together   
