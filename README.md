@@ -95,6 +95,7 @@
   - [Thương nhau nhé](./chords/T/thuong-nhau-nhe.md)
   - [Tìm](./chords/T/tim.md)
   - [Trà sữa](./chords/T/tra-sua.md)
+  - [Từ đó](./chords/T/tu-do.md)
 
 ## V
 
