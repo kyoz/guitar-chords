@@ -20,6 +20,7 @@
   - [Cánh đồng yêu thương](./chords/C/canh-dong-yeu-thuong.md)
   - [Chiều hôm ấy](./chords/C/chieu-hom-ay.md)
   - [Chuyện của mùa đông](./chords/C/chuyen-cua-mua-dong.md)
+  - [Có chàng trai viết lên cây](./chords/C/co-chang-trai-viet-len-cay.md)
   - [Có khi](./chords/C/co-khi.md)
   - [Cuộc đời là những bước chân](./chords/C/cuoc-doi-la-nhung-buoc-chan.md)
 
