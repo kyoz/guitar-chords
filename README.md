@@ -22,6 +22,7 @@
   - [Chuyện của mùa đông](./chords/C/chuyen-cua-mua-dong.md)
   - [Có chàng trai viết lên cây](./chords/C/co-chang-trai-viet-len-cay.md)
   - [Có khi](./chords/C/co-khi.md)
+  - [Có thể](./chords/C/co-the.md)
   - [Cuộc đời là những bước chân](./chords/C/cuoc-doi-la-nhung-buoc-chan.md)
 
 ## D
@@ -60,6 +61,7 @@
 
 ## M
 
+  - [Mascara](./chords/M/mascara.md)
   - [Mỗi người một nơi](./chords/M/moi-nguoi-mot-noi.md)
   - [Một bước yêu, vạn dặm đau](./chords/M/mot-buoc-yeu-van-dam-dau.md)
   - [Một đêm say](./chords/M/mot-dem-say.md)
