@@ -15,7 +15,8 @@ Ta [[C]]() bên nhau
 Điều [[G]]() đó đã có thể   
 Ta [[C]]() bên nhau   
    
-Chorus: [[G]]() Đường về xa lắm em [[Bm]]() ơi   
+**Chorus:**   
+[[G]]() Đường về xa lắm em [[Bm]]() ơi   
 [[Em]]() Đường về xa lắm em [[C]]() ơi   
 [[G]]() Đường về xa lắm em [[Bm]]() ơi   
 [[Em]]() Đường về xa lắm em [[C]]() ơi   
