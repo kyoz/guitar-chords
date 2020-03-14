@@ -44,6 +44,7 @@
 
   - [Gặp em đúng lúc](./chords/G/gap-em-dung-luc.md)
   - [Giấc mơ chỉ là giấc mơ](./chords/G/giac-mo-chi-la-giac-mo.md)
+  - [Giáng trần](./chords/G/giang-tran.md)
   - [Gửi em người anh mới quen](./chords/G/gui-em-nguoi-anh-moi-quen.md)
 
 ## H
