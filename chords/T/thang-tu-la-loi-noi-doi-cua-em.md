@@ -1,7 +1,7 @@
 ## Tháng tư là lời nói dối của em
 > Hà Anh Tuấn
 
-**Capo: 3**
+**Capo: 2**
 
 Mùa xuân có em như chưa bắt đầu [C D Bm Em]()<br>
 Và cơn gió như khẽ mơn man lay từng nhành hoa rơi [C D Bm Em]()<br>
