@@ -56,6 +56,7 @@
 
 ## L
 
+  - [Là bạn không thể yêu](./chords/L/la-ban-khong-the-yeu.md)
   - [Lời con hứa](./chords/L/loi-con-hua.md)
   - [Lời Từ Trái Tim Anh](./chords/L/loi-tu-trai-tim-anh.md)
 
