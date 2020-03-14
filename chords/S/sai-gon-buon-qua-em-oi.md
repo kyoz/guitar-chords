@@ -1,6 +1,8 @@
 # Sài gòn buồn quá em ơi
 > Dế choắt
 
+**Capo:** 3
+
 Sài Gòn buồn [[Bm]]() quá   
 Em ơi, Em giờ đang nơi [[D]]() đâu?   
 Sài Gòn buồn [[Em]]() quá Em ơi   
