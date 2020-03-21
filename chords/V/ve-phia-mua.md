@@ -1,7 +1,5 @@
 # Về phía mưa
 > Nguyễn Thế Bảo
-
-**Capo: 1**   
    
 
 Cũng đã [[G]]() lâu hai ta chẳng bước đi chung trên [[Em]]() con phố dài   
