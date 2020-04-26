@@ -1,7 +1,7 @@
 # :guitar: Guitar Chords 
 > My favorites song chords for guitar
 
-[A](#A), [B](#B), [C](#C), [D](#D), E, [F](#F), [G](#G), [H](#H), I, J, K, [L](#L), [M](#M), [N](#N), O, [P](#P), [Q](#Q), R, S, [T](#T), U, [V](#V), W, X, Y, Z
+[A](#A), [B](#B), [C](#C), [D](#D), E, [F](#F), [G](#G), [H](#H), I, J, K, [L](#L), [M](#M), [N](#N), O, [P](#P), [Q](#Q), R, S, [T](#T), U, [V](#V), W, X, [Y](#Y), Z
 
 ## A
 
@@ -109,6 +109,10 @@
   - [Về phía mưa](./chords/V/ve-phia-mua.md)
   - [Vì một người ra đi](./chords/V/vi-mot-nguoi-ra-di.md)
   - [Vội vàng](./chords/V/voi-vang.md)
+
+## Y
+
+  - [Yêu một người phải chăng lầm lỗi](./chords/Y/yeu-mot-nguoi-phai-chang-lam-loi.md)
 
 ## Not tested
 
