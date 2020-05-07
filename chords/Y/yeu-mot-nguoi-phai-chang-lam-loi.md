@@ -4,7 +4,7 @@
 **Capo: 3**   
 
 [[D]]() Em có biết tim anh từ [[A]]() lâu đã khắc tên [[Bm]]() em ?   
-Em có biết em như cơn [[F#m]]() mưa đến nhanh [[D]]() vội tan ?   
+Em có biết em như cơn [[F#m]]() mưa đến nhanh [[G]]() vội tan ?   
 Anh không níu [[D]]() kéo được, đành chờ những cơn [[Em]]() gió mang em [[A]]() đến đây.   
    
 [[D]]() Tình yêu vẫn khiến bao người [[A]]() đam mê mãi suốt cuộc [[Bm]]() đời.   
