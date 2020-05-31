@@ -1,7 +1,7 @@
 # Yêu một người phải chăng lầm lỗi
 > Ưng Đại Vệ
 
-**Capo: 3**   
+**Capo: 2**   
 
 [[D]]() Em có biết tim anh từ [[A]]() lâu đã khắc tên [[Bm]]() em ?   
 Em có biết em như cơn [[F#m]]() mưa đến nhanh [[G]]() vội tan ?   
