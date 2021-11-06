@@ -81,6 +81,7 @@
 
 ## P
 
+  - [Phiến lá tĩnh lặng](./chords/P/phien-la-tinh-lang.md)
   - [Proud of you](./chords/P/proud-of-you.md)
 
 ## Q
